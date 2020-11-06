@@ -1,0 +1,79 @@
+header {
+    text-align: center;
+}
+
+#logo1 {
+    display: inline-block;
+}
+
+.links {
+    display: inline-block;
+    position: relative;
+    left: 100px;
+}
+
+#divider {
+    background-repeat: repeat-x;
+}
+
+#delicious {
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+    display: inline-block;
+}
+
+#best-blog {
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sub-heading {
+
+}
+
+#print-section {
+
+}
+
+#hero-image {
+    display: block;
+    margin: auto;
+    margin: auto;
+    
+}
+
+#notebook {
+
+}
+
+#divider2 {
+
+}
+
+#van {
+
+}
+
+#bio-name {
+
+}
+
+#bio {
+
+}
+
+#logo2 {
+
+}
+
+.copyright {
+
+}
+
+h1 {
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+body {
+    
+}
