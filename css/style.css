@@ -1,18 +1,22 @@
 header {
-    text-align: center;
+    margin: 40px 0px 0px 0px;
+    text-align: left;
 }
 
 #logo1 {
     display: inline-block;
+    position: relative;
+    left: 40px;
 }
 
 .links {
     display: inline-block;
     position: relative;
-    left: 100px;
+    left: 320px;
 }
 
 #divider {
+    background-image: url(./img/hr-img.png);
     background-repeat: repeat-x;
 }
 
@@ -20,60 +24,129 @@ header {
     font-family: 'Pacifico', cursive;
     font-style: italic;
     display: inline-block;
+    position: relative;
+    left: 60px;
+    bottom: 20px;
 }
 
 #best-blog {
     display: inline-block;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    position: relative;
+    left: -35px;
 }
 
 #sub-heading {
-
+    display: inline-block;
+    position: relative;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    left: -168px;
+    top: 20px;
 }
 
 #print-section {
-
+    display: inline-block;
+    position: relative;
+    left: 410px;
 }
 
 #hero-image {
-    display: block;
-    margin: auto;
-    margin: auto;
+    display: inline-block;
+    position: relative;
+    left: 40px;
     
 }
 
-#notebook {
+article{
+    display: inline-block;
+    position: relative;
+    width: 900px;
+    left: 40px;
+}
 
+section{
+    text-align: left;
+}
+
+#ul-left{
+    color: rgb(110, 61, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 18px;
+    font-size: 22px;
+    left: 60px;
+    z-index: 1000;
+}
+
+#ul-right{
+    color: rgb(110, 61, 21);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+    position: relative;
+    top: 18px;
+    font-size: 22px;
+    left: 110px;
+    z-index: 1000;
+}
+
+#notebook {
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: -200px;
 }
 
 #divider2 {
 
 }
 
-#van {
+footer {
+    text-align: left;
 
+}
+
+#van {
+    position: relative;
+    top: -120px;
+    left: 40px;
 }
 
 #bio-name {
-
+    position: relative;
+    top: -215px;
+    left: 140px;
 }
 
 #bio {
-
+    position: relative;
+    top: -215px;
+    left: 140px;
 }
 
 #logo2 {
-
+    position: relative;
+    top: -215px;
+    left: 350px;
 }
 
 .copyright {
-
+    position: relative;
+    top: -215px;
+    left: 350px;
 }
 
 h1 {
+    display: inline-block;
+    position: relative;
+    left: 40px;
     font-family: 'Do Hyeon', sans-serif;
 }
 
+
+
 body {
-    
+
 }
